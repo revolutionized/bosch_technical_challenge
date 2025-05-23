@@ -1,0 +1,6 @@
+# Remove build folders
+build/
+cmake-build-debug/
+
+# Remove ide folder
+.idea/
